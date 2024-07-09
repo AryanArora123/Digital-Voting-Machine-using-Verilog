@@ -1,4 +1,4 @@
-//DESIGN CODE:
+//# DESIGN CODE by ARYAN ARORA
 `timescale 1ns / 1ps
 
 module buttonControl(
